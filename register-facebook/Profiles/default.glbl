@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>first_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>last_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Please use email or phone number</description>
+      <initValue>''</initValue>
+      <name>email_or_phone</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Date of Birth, please use this format: dd-mm-yyyy | 02-07-1994</description>
+      <initValue>''</initValue>
+      <name>dob</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Please choose one: &quot;male&quot;, &quot;female&quot;, or &quot;custom&quot;</description>
+      <initValue>''</initValue>
+      <name>gender</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://web.facebook.com/'</initValue>
+      <name>hostname</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
